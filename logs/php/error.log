@@ -1,0 +1,833 @@
+[12-Feb-2024 11:19:19 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\mario\Local Sites\test\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[12-Feb-2024 11:19:19 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\mario\Local Sites\test\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[12-Feb-2024 11:21:05 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\mario\Local Sites\test\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[12-Feb-2024 14:57:24 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 16:01:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[12-Feb-2024 16:01:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[12-Feb-2024 16:01:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[12-Feb-2024 16:01:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[12-Feb-2024 16:01:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[12-Feb-2024 16:01:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[12-Feb-2024 16:01:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[12-Feb-2024 16:01:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[12-Feb-2024 16:01:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[12-Feb-2024 16:01:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[12-Feb-2024 16:01:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[12-Feb-2024 16:01:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[12-Feb-2024 16:01:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[12-Feb-2024 16:01:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[12-Feb-2024 16:01:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[12-Feb-2024 16:01:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[12-Feb-2024 16:01:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[12-Feb-2024 16:01:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[12-Feb-2024 16:01:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[12-Feb-2024 16:01:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[12-Feb-2024 16:01:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[12-Feb-2024 16:01:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[12-Feb-2024 16:04:11 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 16:04:11 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 16:04:37 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 16:05:21 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 16:05:48 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 16:06:12 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 16:06:32 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 16:06:53 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 16:07:14 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 16:10:55 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 16:39:13 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 16:40:23 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 16:50:13 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 16:50:13 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 16:50:42 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 16:50:42 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 16:51:03 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 16:51:39 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 18:45:45 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 18:45:47 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 18:47:03 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 18:54:26 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 18:54:48 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 18:55:43 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 18:56:15 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 19:41:11 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 19:42:23 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 19:44:24 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 19:45:38 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 19:48:58 UTC] WooCommerce Product Generator created 1 simple product in 2.644755 seconds
+[12-Feb-2024 19:49:07 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 8.698275 seconds
+[12-Feb-2024 19:49:10 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 3.343430 seconds
+[12-Feb-2024 19:49:14 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 4.409479 seconds
+[12-Feb-2024 19:49:19 UTC] WooCommerce Product Generator created 1 variable product with 4 variations in 4.560983 seconds
+[12-Feb-2024 19:49:24 UTC] WooCommerce Product Generator created 1 variable product with 27 variations in 4.790763 seconds
+[12-Feb-2024 19:49:26 UTC] WooCommerce Product Generator created 1 simple product in 1.910531 seconds
+[12-Feb-2024 19:49:29 UTC] WooCommerce Product Generator created 1 simple product in 3.403233 seconds
+[12-Feb-2024 19:49:35 UTC] WooCommerce Product Generator created 1 variable product with 5 variations in 5.583531 seconds
+[12-Feb-2024 19:49:39 UTC] WooCommerce Product Generator created 1 simple product in 4.553785 seconds
+[12-Feb-2024 19:49:39 UTC] WooCommerce Product Generator cycle created 4 simple products, 6 variable products and 40 variations in 43.903940 seconds
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xxs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xxs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "l" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xl" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "brown" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "brown" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "l" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "brown" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xl" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "brown" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "brown" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "brown" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "s" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xxs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "m" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xxl" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "s" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xxs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "m" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xxl" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "red" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "blue" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "red" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "black" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "red" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "blue" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "green" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "blue" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "orange" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "black" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "brown" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "brown" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "brown" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "orange" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "white" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "green" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "red" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "white" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "black" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "orange" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "black" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "white" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "blue" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "white" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "blue" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "orange" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "brown" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xxs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "l" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "s" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xl" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xl" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "s" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xl" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xl" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "l" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "s" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xxl" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "l" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xxs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "m" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "l" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "s" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xxs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xxl" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "s" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xxs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xxs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xxl" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "red" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xxs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "blue" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "l" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "red" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "s" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "black" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:41 UTC] PHP Warning:  Undefined array key "xs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "red" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "xl" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "blue" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "xl" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "green" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "xs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "blue" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "s" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "orange" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "xs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "black" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "xl" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "brown" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "xl" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "brown" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "l" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "brown" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "s" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "orange" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "xxl" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "white" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "l" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "green" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "xxs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "red" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "m" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "white" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "xs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "black" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "l" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "orange" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "s" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "black" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "xxs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "white" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "xxl" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "blue" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "xs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "white" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "s" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "blue" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "xxs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "orange" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "xxs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "brown" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "xxl" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "m" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "m" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "l" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "l" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "xxs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "green" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "pink" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "green" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "yellow" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "green" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "m" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "green" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "m" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "pink" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "l" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "green" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "l" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "yellow" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "xxs" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:42 UTC] PHP Warning:  Undefined array key "green" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php on line 459
+[12-Feb-2024 19:49:57 UTC] WooCommerce Product Generator created 1 simple product in 13.430179 seconds
+[12-Feb-2024 19:50:07 UTC] WooCommerce Product Generator created 1 variable product with 20 variations in 9.416110 seconds
+[12-Feb-2024 19:50:11 UTC] WooCommerce Product Generator created 1 simple product in 4.114131 seconds
+[12-Feb-2024 19:50:13 UTC] WooCommerce Product Generator created 1 simple product in 1.767492 seconds
+[12-Feb-2024 19:50:17 UTC] WooCommerce Product Generator created 1 variable product with 5 variations in 4.038559 seconds
+[12-Feb-2024 19:50:21 UTC] WooCommerce Product Generator created 1 variable product with 3 variations in 4.873044 seconds
+[12-Feb-2024 19:50:32 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 10.718442 seconds
+[12-Feb-2024 19:50:37 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 5.160909 seconds
+[12-Feb-2024 19:50:40 UTC] WooCommerce Product Generator created 1 variable product with 4 variations in 2.924700 seconds
+[12-Feb-2024 19:50:45 UTC] WooCommerce Product Generator created 1 simple product in 4.602611 seconds
+[12-Feb-2024 19:50:45 UTC] WooCommerce Product Generator cycle created 4 simple products, 6 variable products and 34 variations in 61.050168 seconds
+[12-Feb-2024 19:50:56 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 5.522965 seconds
+[12-Feb-2024 19:50:59 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 2.176115 seconds
+[12-Feb-2024 19:51:03 UTC] WooCommerce Product Generator created 1 simple product in 4.667410 seconds
+[12-Feb-2024 19:51:09 UTC] WooCommerce Product Generator created 1 simple product in 5.467669 seconds
+[12-Feb-2024 19:51:13 UTC] WooCommerce Product Generator created 1 simple product in 4.382320 seconds
+[12-Feb-2024 19:51:16 UTC] WooCommerce Product Generator created 1 simple product in 2.477666 seconds
+[12-Feb-2024 19:51:20 UTC] WooCommerce Product Generator created 1 simple product in 4.674035 seconds
+[12-Feb-2024 19:51:22 UTC] WooCommerce Product Generator created 1 simple product in 1.663740 seconds
+[12-Feb-2024 19:51:26 UTC] WooCommerce Product Generator created 1 simple product in 3.875584 seconds
+[12-Feb-2024 19:51:30 UTC] WooCommerce Product Generator created 1 simple product in 4.104206 seconds
+[12-Feb-2024 19:51:30 UTC] WooCommerce Product Generator cycle created 8 simple products, 2 variable products and 2 variations in 39.015806 seconds
+[12-Feb-2024 19:51:56 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 5.302007 seconds
+[12-Feb-2024 19:51:59 UTC] WooCommerce Product Generator created 1 simple product in 3.164410 seconds
+[12-Feb-2024 19:52:02 UTC] WooCommerce Product Generator created 1 simple product in 2.591270 seconds
+[12-Feb-2024 19:52:05 UTC] WooCommerce Product Generator created 1 variable product with 4 variations in 3.470077 seconds
+[12-Feb-2024 19:52:09 UTC] WooCommerce Product Generator created 1 variable product with 3 variations in 3.600001 seconds
+[12-Feb-2024 19:52:11 UTC] WooCommerce Product Generator created 1 variable product with 3 variations in 2.440484 seconds
+[12-Feb-2024 19:52:14 UTC] WooCommerce Product Generator created 1 variable product with 5 variations in 2.777554 seconds
+[12-Feb-2024 19:52:18 UTC] WooCommerce Product Generator created 1 simple product in 4.156750 seconds
+[12-Feb-2024 19:52:22 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 3.584328 seconds
+[12-Feb-2024 19:52:52 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 29.852771 seconds
+[12-Feb-2024 19:52:52 UTC] WooCommerce Product Generator cycle created 3 simple products, 7 variable products and 20 variations in 60.943435 seconds
+[12-Feb-2024 19:54:01 UTC] WooCommerce Product Generator created 1 variable product with 3 variations in 10.302355 seconds
+[12-Feb-2024 19:54:06 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 4.726915 seconds
+[12-Feb-2024 19:54:09 UTC] WooCommerce Product Generator created 1 simple product in 2.602740 seconds
+[12-Feb-2024 19:54:13 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 4.626432 seconds
+[12-Feb-2024 19:54:18 UTC] WooCommerce Product Generator created 1 simple product in 5.275409 seconds
+[12-Feb-2024 19:54:21 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 2.784716 seconds
+[12-Feb-2024 19:54:26 UTC] WooCommerce Product Generator created 1 simple product in 4.727846 seconds
+[12-Feb-2024 19:54:31 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 4.890314 seconds
+[12-Feb-2024 19:54:36 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 4.867057 seconds
+[12-Feb-2024 19:54:38 UTC] WooCommerce Product Generator created 1 simple product in 2.046703 seconds
+[12-Feb-2024 19:54:38 UTC] WooCommerce Product Generator cycle created 4 simple products, 6 variable products and 10 variations in 46.855519 seconds
+[12-Feb-2024 19:54:45 UTC] WooCommerce Product Generator created 1 variable product with 16 variations in 5.338515 seconds
+[12-Feb-2024 19:54:53 UTC] WooCommerce Product Generator created 1 simple product in 8.121424 seconds
+[12-Feb-2024 19:55:05 UTC] WooCommerce Product Generator created 1 simple product in 11.864740 seconds
+[12-Feb-2024 19:55:10 UTC] WooCommerce Product Generator created 1 simple product in 4.686620 seconds
+[12-Feb-2024 19:55:13 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 3.623060 seconds
+[12-Feb-2024 19:55:18 UTC] WooCommerce Product Generator created 1 variable product with 3 variations in 4.275052 seconds
+[12-Feb-2024 19:55:20 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 2.705113 seconds
+[12-Feb-2024 19:55:23 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 2.433633 seconds
+[12-Feb-2024 19:55:30 UTC] WooCommerce Product Generator created 1 variable product with 12 variations in 7.141263 seconds
+[12-Feb-2024 19:55:32 UTC] WooCommerce Product Generator created 1 simple product in 2.336878 seconds
+[12-Feb-2024 19:55:32 UTC] WooCommerce Product Generator cycle created 4 simple products, 6 variable products and 34 variations in 52.530643 seconds
+[12-Feb-2024 19:55:59 UTC] WooCommerce Product Generator created 1 variable product with 11 variations in 8.217585 seconds
+[12-Feb-2024 19:56:04 UTC] WooCommerce Product Generator created 1 variable product with 16 variations in 4.957399 seconds
+[12-Feb-2024 19:56:07 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 2.686625 seconds
+[12-Feb-2024 19:56:11 UTC] WooCommerce Product Generator created 1 simple product in 4.582681 seconds
+[12-Feb-2024 19:56:15 UTC] WooCommerce Product Generator created 1 variable product with 9 variations in 3.390693 seconds
+[12-Feb-2024 19:56:21 UTC] WooCommerce Product Generator created 1 simple product in 5.873949 seconds
+[12-Feb-2024 19:56:27 UTC] WooCommerce Product Generator created 1 variable product with 4 variations in 5.960255 seconds
+[12-Feb-2024 19:56:30 UTC] WooCommerce Product Generator created 1 simple product in 3.809533 seconds
+[12-Feb-2024 19:56:34 UTC] WooCommerce Product Generator created 1 variable product with 11 variations in 3.870866 seconds
+[12-Feb-2024 19:56:39 UTC] WooCommerce Product Generator created 1 variable product with 6 variations in 5.076327 seconds
+[12-Feb-2024 19:56:39 UTC] WooCommerce Product Generator cycle created 3 simple products, 7 variable products and 58 variations in 48.430813 seconds
+[12-Feb-2024 19:56:53 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 3.380565 seconds
+[12-Feb-2024 19:56:57 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 4.131981 seconds
+[12-Feb-2024 19:57:02 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 5.362353 seconds
+[12-Feb-2024 19:57:07 UTC] WooCommerce Product Generator created 1 variable product with 4 variations in 4.322831 seconds
+[12-Feb-2024 19:57:11 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 4.174516 seconds
+[12-Feb-2024 19:57:15 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 4.288842 seconds
+[12-Feb-2024 19:57:18 UTC] WooCommerce Product Generator created 1 simple product in 2.807114 seconds
+[12-Feb-2024 19:57:21 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 2.847433 seconds
+[12-Feb-2024 19:57:26 UTC] WooCommerce Product Generator created 1 variable product with 8 variations in 5.044675 seconds
+[12-Feb-2024 19:57:33 UTC] WooCommerce Product Generator created 1 variable product with 15 variations in 7.407340 seconds
+[12-Feb-2024 19:57:33 UTC] WooCommerce Product Generator cycle created 1 simple products, 9 variable products and 37 variations in 43.771795 seconds
+[12-Feb-2024 19:57:46 UTC] WooCommerce Product Generator created 1 variable product with 3 variations in 3.200075 seconds
+[12-Feb-2024 19:57:49 UTC] WooCommerce Product Generator created 1 variable product with 4 variations in 3.883135 seconds
+[12-Feb-2024 19:57:52 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 2.370331 seconds
+[12-Feb-2024 19:57:54 UTC] WooCommerce Product Generator created 1 simple product in 2.456254 seconds
+[12-Feb-2024 19:57:59 UTC] WooCommerce Product Generator created 1 variable product with 11 variations in 4.634576 seconds
+[12-Feb-2024 19:58:07 UTC] WooCommerce Product Generator created 1 variable product with 3 variations in 8.036206 seconds
+[12-Feb-2024 19:58:10 UTC] WooCommerce Product Generator created 1 simple product in 2.728283 seconds
+[12-Feb-2024 19:58:19 UTC] WooCommerce Product Generator created 1 simple product in 9.412485 seconds
+[12-Feb-2024 19:58:24 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 5.095542 seconds
+[12-Feb-2024 19:58:31 UTC] WooCommerce Product Generator created 1 variable product with 31 variations in 6.483242 seconds
+[12-Feb-2024 19:58:31 UTC] WooCommerce Product Generator cycle created 3 simple products, 7 variable products and 55 variations in 48.304467 seconds
+[12-Feb-2024 19:58:53 UTC] WooCommerce Product Generator created 1 simple product in 2.465350 seconds
+[12-Feb-2024 19:58:59 UTC] WooCommerce Product Generator created 1 simple product in 5.233467 seconds
+[12-Feb-2024 19:59:01 UTC] WooCommerce Product Generator created 1 simple product in 2.885507 seconds
+[12-Feb-2024 19:59:11 UTC] WooCommerce Product Generator created 1 variable product with 5 variations in 9.129044 seconds
+[12-Feb-2024 19:59:15 UTC] WooCommerce Product Generator created 1 simple product in 4.725196 seconds
+[12-Feb-2024 19:59:19 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 3.184020 seconds
+[12-Feb-2024 19:59:21 UTC] WooCommerce Product Generator created 1 variable product with 3 variations in 2.861719 seconds
+[12-Feb-2024 19:59:26 UTC] WooCommerce Product Generator created 1 simple product in 4.125738 seconds
+[12-Feb-2024 19:59:29 UTC] WooCommerce Product Generator created 1 simple product in 3.839169 seconds
+[12-Feb-2024 19:59:33 UTC] WooCommerce Product Generator created 1 simple product in 3.643423 seconds
+[12-Feb-2024 19:59:33 UTC] WooCommerce Product Generator cycle created 7 simple products, 3 variable products and 10 variations in 42.097002 seconds
+[12-Feb-2024 19:59:58 UTC] WooCommerce Product Generator created 1 simple product in 6.590025 seconds
+[12-Feb-2024 20:00:02 UTC] WooCommerce Product Generator created 1 simple product in 4.396091 seconds
+[12-Feb-2024 20:00:10 UTC] WooCommerce Product Generator created 1 variable product with 31 variations in 7.851741 seconds
+[12-Feb-2024 20:00:14 UTC] WooCommerce Product Generator created 1 simple product in 4.133071 seconds
+[12-Feb-2024 20:00:16 UTC] WooCommerce Product Generator created 1 simple product in 2.066180 seconds
+[12-Feb-2024 20:00:22 UTC] WooCommerce Product Generator created 1 variable product with 5 variations in 6.337189 seconds
+[12-Feb-2024 20:00:29 UTC] WooCommerce Product Generator created 1 variable product with 12 variations in 6.204050 seconds
+[12-Feb-2024 20:00:33 UTC] WooCommerce Product Generator created 1 variable product with 4 variations in 4.340678 seconds
+[12-Feb-2024 20:00:35 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:00:37 UTC] WooCommerce Product Generator created 1 variable product with 10 variations in 4.308126 seconds
+[12-Feb-2024 20:00:40 UTC] WooCommerce Product Generator created 1 simple product in 2.538863 seconds
+[12-Feb-2024 20:00:40 UTC] WooCommerce Product Generator cycle created 5 simple products, 5 variable products and 62 variations in 48.771013 seconds
+[12-Feb-2024 20:00:56 UTC] WooCommerce Product Generator created 1 simple product in 3.635960 seconds
+[12-Feb-2024 20:01:00 UTC] WooCommerce Product Generator created 1 simple product in 4.357514 seconds
+[12-Feb-2024 20:01:04 UTC] WooCommerce Product Generator created 1 simple product in 3.863397 seconds
+[12-Feb-2024 20:01:10 UTC] WooCommerce Product Generator created 1 variable product with 14 variations in 6.076516 seconds
+[12-Feb-2024 20:01:16 UTC] WooCommerce Product Generator created 1 variable product with 5 variations in 5.708576 seconds
+[12-Feb-2024 20:01:20 UTC] WooCommerce Product Generator created 1 simple product in 4.725448 seconds
+[12-Feb-2024 20:01:23 UTC] WooCommerce Product Generator created 1 simple product in 2.406895 seconds
+[12-Feb-2024 20:01:27 UTC] WooCommerce Product Generator created 1 variable product with 7 variations in 4.194445 seconds
+[12-Feb-2024 20:01:32 UTC] WooCommerce Product Generator created 1 variable product with 10 variations in 4.646252 seconds
+[12-Feb-2024 20:01:36 UTC] WooCommerce Product Generator created 1 simple product in 4.665764 seconds
+[12-Feb-2024 20:01:36 UTC] WooCommerce Product Generator cycle created 6 simple products, 4 variable products and 36 variations in 44.286007 seconds
+[12-Feb-2024 20:01:55 UTC] WooCommerce Product Generator created 1 simple product in 4.377548 seconds
+[12-Feb-2024 20:02:00 UTC] WooCommerce Product Generator created 1 simple product in 4.385505 seconds
+[12-Feb-2024 20:02:03 UTC] WooCommerce Product Generator created 1 variable product with 4 variations in 3.484202 seconds
+[12-Feb-2024 20:02:09 UTC] WooCommerce Product Generator created 1 variable product with 3 variations in 5.990552 seconds
+[12-Feb-2024 20:02:12 UTC] WooCommerce Product Generator created 1 variable product with 3 variations in 2.778219 seconds
+[12-Feb-2024 20:02:20 UTC] WooCommerce Product Generator created 1 variable product with 10 variations in 7.960209 seconds
+[12-Feb-2024 20:02:25 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 4.803929 seconds
+[12-Feb-2024 20:02:28 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 3.713511 seconds
+[12-Feb-2024 20:02:35 UTC] WooCommerce Product Generator created 1 simple product in 6.469495 seconds
+[12-Feb-2024 20:02:40 UTC] WooCommerce Product Generator created 1 simple product in 5.385129 seconds
+[12-Feb-2024 20:02:40 UTC] WooCommerce Product Generator cycle created 4 simple products, 6 variable products and 23 variations in 49.352583 seconds
+[12-Feb-2024 20:02:57 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 4.863026 seconds
+[12-Feb-2024 20:03:00 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 3.446214 seconds
+[12-Feb-2024 20:03:03 UTC] WooCommerce Product Generator created 1 variable product with 6 variations in 3.137216 seconds
+[12-Feb-2024 20:03:10 UTC] WooCommerce Product Generator created 1 variable product with 28 variations in 6.856802 seconds
+[12-Feb-2024 20:03:13 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 2.963058 seconds
+[12-Feb-2024 20:03:17 UTC] WooCommerce Product Generator created 1 simple product in 4.093588 seconds
+[12-Feb-2024 20:03:21 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 4.085125 seconds
+[12-Feb-2024 20:03:31 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 9.955227 seconds
+[12-Feb-2024 20:03:36 UTC] WooCommerce Product Generator created 1 simple product in 4.884949 seconds
+[12-Feb-2024 20:03:43 UTC] WooCommerce Product Generator created 1 variable product with 13 variations in 6.651623 seconds
+[12-Feb-2024 20:03:43 UTC] WooCommerce Product Generator cycle created 2 simple products, 8 variable products and 54 variations in 50.941135 seconds
+[12-Feb-2024 20:03:57 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 5.924045 seconds
+[12-Feb-2024 20:04:02 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 5.485199 seconds
+[12-Feb-2024 20:04:06 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 3.552373 seconds
+[12-Feb-2024 20:04:10 UTC] WooCommerce Product Generator created 1 simple product in 3.859165 seconds
+[12-Feb-2024 20:04:12 UTC] WooCommerce Product Generator created 1 simple product in 2.361489 seconds
+[12-Feb-2024 20:04:15 UTC] WooCommerce Product Generator created 1 simple product in 2.523878 seconds
+[12-Feb-2024 20:04:18 UTC] WooCommerce Product Generator created 1 simple product in 3.589054 seconds
+[12-Feb-2024 20:04:21 UTC] WooCommerce Product Generator created 1 simple product in 2.335845 seconds
+[12-Feb-2024 20:04:25 UTC] WooCommerce Product Generator created 1 variable product with 9 variations in 4.212882 seconds
+[12-Feb-2024 20:04:29 UTC] WooCommerce Product Generator created 1 variable product with 9 variations in 3.935268 seconds
+[12-Feb-2024 20:04:29 UTC] WooCommerce Product Generator cycle created 5 simple products, 5 variable products and 22 variations in 37.783649 seconds
+[12-Feb-2024 20:04:56 UTC] WooCommerce Product Generator created 1 simple product in 5.224741 seconds
+[12-Feb-2024 20:05:00 UTC] WooCommerce Product Generator created 1 simple product in 3.806693 seconds
+[12-Feb-2024 20:05:05 UTC] WooCommerce Product Generator created 1 simple product in 4.587215 seconds
+[12-Feb-2024 20:05:10 UTC] WooCommerce Product Generator created 1 variable product with 15 variations in 5.642638 seconds
+[12-Feb-2024 20:05:15 UTC] WooCommerce Product Generator created 1 simple product in 4.401850 seconds
+[12-Feb-2024 20:05:17 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 2.441610 seconds
+[12-Feb-2024 20:05:20 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 3.450677 seconds
+[12-Feb-2024 20:05:23 UTC] WooCommerce Product Generator created 1 variable product with 4 variations in 2.894099 seconds
+[12-Feb-2024 20:05:30 UTC] WooCommerce Product Generator created 1 variable product with 4 variations in 6.208911 seconds
+[12-Feb-2024 20:05:33 UTC] WooCommerce Product Generator created 1 variable product with 3 variations in 2.997410 seconds
+[12-Feb-2024 20:05:33 UTC] WooCommerce Product Generator cycle created 4 simple products, 6 variable products and 29 variations in 41.659998 seconds
+[12-Feb-2024 20:05:35 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:05:36 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:05:58 UTC] WooCommerce Product Generator created 1 simple product in 6.366432 seconds
+[12-Feb-2024 20:06:00 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 2.957665 seconds
+[12-Feb-2024 20:06:03 UTC] WooCommerce Product Generator created 1 simple product in 2.585368 seconds
+[12-Feb-2024 20:06:05 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:06:06 UTC] WooCommerce Product Generator created 1 simple product in 2.852396 seconds
+[12-Feb-2024 20:06:10 UTC] WooCommerce Product Generator created 1 simple product in 4.084566 seconds
+[12-Feb-2024 20:06:16 UTC] WooCommerce Product Generator created 1 variable product with 19 variations in 6.355337 seconds
+[12-Feb-2024 20:06:19 UTC] WooCommerce Product Generator created 1 simple product in 2.675301 seconds
+[12-Feb-2024 20:06:23 UTC] WooCommerce Product Generator created 1 variable product with 13 variations in 3.959714 seconds
+[12-Feb-2024 20:06:29 UTC] WooCommerce Product Generator created 1 simple product in 6.393810 seconds
+[12-Feb-2024 20:06:33 UTC] WooCommerce Product Generator created 1 variable product with 6 variations in 3.253812 seconds
+[12-Feb-2024 20:06:33 UTC] WooCommerce Product Generator cycle created 6 simple products, 4 variable products and 40 variations in 41.488702 seconds
+[12-Feb-2024 20:06:36 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:06:53 UTC] WooCommerce Product Generator created 1 simple product in 2.352040 seconds
+[12-Feb-2024 20:06:56 UTC] WooCommerce Product Generator created 1 variable product with 4 variations in 2.860224 seconds
+[12-Feb-2024 20:06:59 UTC] WooCommerce Product Generator created 1 variable product with 3 variations in 2.844175 seconds
+[12-Feb-2024 20:07:05 UTC] WooCommerce Product Generator created 1 simple product in 6.526302 seconds
+[12-Feb-2024 20:07:09 UTC] WooCommerce Product Generator created 1 simple product in 3.706988 seconds
+[12-Feb-2024 20:07:17 UTC] WooCommerce Product Generator created 1 variable product with 5 variations in 7.886820 seconds
+[12-Feb-2024 20:07:24 UTC] WooCommerce Product Generator created 1 simple product in 6.786124 seconds
+[12-Feb-2024 20:07:30 UTC] WooCommerce Product Generator created 1 variable product with 4 variations in 5.960876 seconds
+[12-Feb-2024 20:07:36 UTC] WooCommerce Product Generator created 1 variable product with 9 variations in 5.942463 seconds
+[12-Feb-2024 20:07:42 UTC] WooCommerce Product Generator created 1 variable product with 4 variations in 6.107320 seconds
+[12-Feb-2024 20:07:42 UTC] WooCommerce Product Generator cycle created 4 simple products, 6 variable products and 29 variations in 50.978237 seconds
+[12-Feb-2024 20:07:54 UTC] WooCommerce Product Generator created 1 variable product with 3 variations in 2.661245 seconds
+[12-Feb-2024 20:07:58 UTC] WooCommerce Product Generator created 1 variable product with 7 variations in 4.165151 seconds
+[12-Feb-2024 20:08:02 UTC] WooCommerce Product Generator created 1 simple product in 4.321557 seconds
+[12-Feb-2024 20:08:04 UTC] WooCommerce Product Generator created 1 simple product in 2.327158 seconds
+[12-Feb-2024 20:08:10 UTC] WooCommerce Product Generator created 1 simple product in 5.504539 seconds
+[12-Feb-2024 20:08:17 UTC] WooCommerce Product Generator created 1 simple product in 7.080318 seconds
+[12-Feb-2024 20:08:19 UTC] WooCommerce Product Generator created 1 simple product in 2.125234 seconds
+[12-Feb-2024 20:08:23 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 3.646619 seconds
+[12-Feb-2024 20:08:27 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 4.706699 seconds
+[12-Feb-2024 20:08:31 UTC] WooCommerce Product Generator created 1 simple product in 3.815465 seconds
+[12-Feb-2024 20:08:31 UTC] WooCommerce Product Generator cycle created 6 simple products, 4 variable products and 13 variations in 40.358575 seconds
+[12-Feb-2024 20:08:50 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:08:53 UTC] WooCommerce Product Generator created 1 simple product in 2.323244 seconds
+[12-Feb-2024 20:08:57 UTC] WooCommerce Product Generator created 1 simple product in 4.048323 seconds
+[12-Feb-2024 20:09:00 UTC] WooCommerce Product Generator created 1 simple product in 3.160779 seconds
+[12-Feb-2024 20:09:05 UTC] WooCommerce Product Generator created 1 simple product in 4.158236 seconds
+[12-Feb-2024 20:09:07 UTC] WooCommerce Product Generator created 1 simple product in 2.732394 seconds
+[12-Feb-2024 20:09:11 UTC] WooCommerce Product Generator created 1 variable product with 3 variations in 4.056796 seconds
+[12-Feb-2024 20:09:14 UTC] WooCommerce Product Generator created 1 simple product in 2.673676 seconds
+[12-Feb-2024 20:09:19 UTC] WooCommerce Product Generator created 1 simple product in 5.083386 seconds
+[12-Feb-2024 20:09:23 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 3.909750 seconds
+[12-Feb-2024 20:09:28 UTC] WooCommerce Product Generator created 1 simple product in 4.550731 seconds
+[12-Feb-2024 20:09:28 UTC] WooCommerce Product Generator cycle created 8 simple products, 2 variable products and 5 variations in 36.701348 seconds
+[12-Feb-2024 20:09:33 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 3.367687 seconds
+[12-Feb-2024 20:09:38 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 4.248042 seconds
+[12-Feb-2024 20:09:43 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 5.324584 seconds
+[12-Feb-2024 20:09:49 UTC] WooCommerce Product Generator created 1 variable product with 3 variations in 6.591787 seconds
+[12-Feb-2024 20:09:54 UTC] WooCommerce Product Generator created 1 simple product in 4.048935 seconds
+[12-Feb-2024 20:10:00 UTC] WooCommerce Product Generator created 1 variable product with 7 variations in 6.200347 seconds
+[12-Feb-2024 20:10:03 UTC] WooCommerce Product Generator created 1 simple product in 3.453641 seconds
+[12-Feb-2024 20:10:06 UTC] WooCommerce Product Generator created 1 variable product with 5 variations in 3.157981 seconds
+[12-Feb-2024 20:10:12 UTC] WooCommerce Product Generator created 1 variable product with 21 variations in 5.294846 seconds
+[12-Feb-2024 20:10:15 UTC] WooCommerce Product Generator created 1 variable product with 5 variations in 3.225384 seconds
+[12-Feb-2024 20:10:15 UTC] WooCommerce Product Generator cycle created 2 simple products, 8 variable products and 46 variations in 44.918911 seconds
+[12-Feb-2024 20:10:23 UTC] WooCommerce Product Generator created 1 simple product in 4.689668 seconds
+[12-Feb-2024 20:10:25 UTC] WooCommerce Product Generator created 1 simple product in 2.862004 seconds
+[12-Feb-2024 20:10:30 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 4.242823 seconds
+[12-Feb-2024 20:10:33 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 3.427752 seconds
+[12-Feb-2024 20:10:35 UTC] WooCommerce Product Generator created 1 simple product in 2.243085 seconds
+[12-Feb-2024 20:10:42 UTC] WooCommerce Product Generator created 1 simple product in 6.602232 seconds
+[12-Feb-2024 20:10:46 UTC] WooCommerce Product Generator created 1 variable product with 4 variations in 4.414157 seconds
+[12-Feb-2024 20:10:50 UTC] WooCommerce Product Generator created 1 simple product in 3.759870 seconds
+[12-Feb-2024 20:10:58 UTC] WooCommerce Product Generator created 1 simple product in 7.445165 seconds
+[12-Feb-2024 20:11:01 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 3.633419 seconds
+[12-Feb-2024 20:11:01 UTC] WooCommerce Product Generator cycle created 6 simple products, 4 variable products and 8 variations in 43.324371 seconds
+[12-Feb-2024 20:11:55 UTC] WooCommerce Product Generator created 1 variable product with 3 variations in 3.402064 seconds
+[12-Feb-2024 20:11:57 UTC] WooCommerce Product Generator created 1 simple product in 2.023956 seconds
+[12-Feb-2024 20:12:03 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 6.354640 seconds
+[12-Feb-2024 20:12:07 UTC] WooCommerce Product Generator created 1 simple product in 4.373615 seconds
+[12-Feb-2024 20:12:10 UTC] WooCommerce Product Generator created 1 simple product in 2.540521 seconds
+[12-Feb-2024 20:12:12 UTC] WooCommerce Product Generator created 1 simple product in 2.610009 seconds
+[12-Feb-2024 20:12:15 UTC] WooCommerce Product Generator created 1 simple product in 2.119672 seconds
+[12-Feb-2024 20:12:18 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 3.671263 seconds
+[12-Feb-2024 20:12:22 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 3.517267 seconds
+[12-Feb-2024 20:12:25 UTC] WooCommerce Product Generator created 1 simple product in 3.594956 seconds
+[12-Feb-2024 20:12:25 UTC] WooCommerce Product Generator cycle created 6 simple products, 4 variable products and 7 variations in 34.212173 seconds
+[12-Feb-2024 20:12:55 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 3.749481 seconds
+[12-Feb-2024 20:12:57 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 2.564146 seconds
+[12-Feb-2024 20:13:00 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 2.236818 seconds
+[12-Feb-2024 20:13:03 UTC] WooCommerce Product Generator created 1 simple product in 3.012014 seconds
+[12-Feb-2024 20:13:09 UTC] WooCommerce Product Generator created 1 simple product in 6.154297 seconds
+[12-Feb-2024 20:13:13 UTC] WooCommerce Product Generator created 1 simple product in 4.279861 seconds
+[12-Feb-2024 20:13:18 UTC] WooCommerce Product Generator created 1 simple product in 4.420935 seconds
+[12-Feb-2024 20:13:21 UTC] WooCommerce Product Generator created 1 simple product in 3.225146 seconds
+[12-Feb-2024 20:13:25 UTC] WooCommerce Product Generator created 1 simple product in 3.875646 seconds
+[12-Feb-2024 20:13:28 UTC] WooCommerce Product Generator created 1 simple product in 3.849832 seconds
+[12-Feb-2024 20:13:28 UTC] WooCommerce Product Generator cycle created 7 simple products, 3 variable products and 4 variations in 37.373443 seconds
+[12-Feb-2024 20:13:39 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:13:57 UTC] WooCommerce Product Generator created 1 simple product in 5.673279 seconds
+[12-Feb-2024 20:14:02 UTC] WooCommerce Product Generator created 1 variable product with 12 variations in 5.625010 seconds
+[12-Feb-2024 20:14:06 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 3.912887 seconds
+[12-Feb-2024 20:14:12 UTC] WooCommerce Product Generator created 1 variable product with 3 variations in 6.069018 seconds
+[12-Feb-2024 20:14:22 UTC] WooCommerce Product Generator created 1 variable product with 18 variations in 9.179146 seconds
+[12-Feb-2024 20:14:25 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 3.221087 seconds
+[12-Feb-2024 20:14:27 UTC] WooCommerce Product Generator created 1 simple product in 2.370955 seconds
+[12-Feb-2024 20:14:31 UTC] WooCommerce Product Generator created 1 simple product in 3.872653 seconds
+[12-Feb-2024 20:14:35 UTC] WooCommerce Product Generator created 1 simple product in 4.128682 seconds
+[12-Feb-2024 20:14:39 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 4.278007 seconds
+[12-Feb-2024 20:14:39 UTC] WooCommerce Product Generator cycle created 4 simple products, 6 variable products and 38 variations in 48.335142 seconds
+[12-Feb-2024 20:14:50 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:14:57 UTC] WooCommerce Product Generator created 1 variable product with 9 variations in 5.889707 seconds
+[12-Feb-2024 20:15:01 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 4.108081 seconds
+[12-Feb-2024 20:15:05 UTC] WooCommerce Product Generator created 1 simple product in 3.875300 seconds
+[12-Feb-2024 20:15:06 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:15:11 UTC] WooCommerce Product Generator created 1 simple product in 5.788125 seconds
+[12-Feb-2024 20:15:15 UTC] WooCommerce Product Generator created 1 variable product with 10 variations in 4.174493 seconds
+[12-Feb-2024 20:15:20 UTC] WooCommerce Product Generator created 1 simple product in 5.380079 seconds
+[12-Feb-2024 20:15:23 UTC] WooCommerce Product Generator created 1 simple product in 3.274306 seconds
+[12-Feb-2024 20:15:30 UTC] WooCommerce Product Generator created 1 variable product with 2 variations in 6.279368 seconds
+[12-Feb-2024 20:15:32 UTC] WooCommerce Product Generator created 1 simple product in 2.459379 seconds
+[12-Feb-2024 20:15:39 UTC] WooCommerce Product Generator created 1 variable product with 1 variations in 7.350591 seconds
+[12-Feb-2024 20:15:39 UTC] WooCommerce Product Generator cycle created 5 simple products, 5 variable products and 24 variations in 48.584122 seconds
+[12-Feb-2024 20:15:41 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:16:48 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:17:12 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:17:36 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:18:09 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:18:41 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:19:04 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:20:30 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:20:32 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:21:09 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:23:05 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:23:31 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:23:58 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:24:24 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:24:45 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[12-Feb-2024 20:24:51 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:25:16 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:26:10 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:26:32 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:27:05 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:27:08 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:27:48 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:28:13 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:28:53 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:38:45 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:42:24 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:42:48 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:43:53 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:46:12 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:46:16 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:46:20 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:47:19 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:48:14 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:48:27 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:52:02 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:52:47 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:53:44 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:54:05 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:54:34 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:55:02 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:55:05 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:55:09 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:55:19 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:55:26 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:55:35 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:55:47 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:56:00 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:56:00 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:56:07 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:56:18 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:56:50 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:56:51 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:57:26 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:58:07 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:58:42 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:58:46 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 20:59:04 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 21:00:20 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 21:01:04 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 21:01:17 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 21:01:23 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 21:01:31 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 21:01:37 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 21:02:01 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 21:02:17 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 21:03:15 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 21:03:32 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 21:04:38 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 21:15:50 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 21:48:29 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 21:50:55 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 21:51:01 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 21:53:07 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 21:53:07 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 21:58:55 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 21:59:56 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:00:11 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:00:14 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:01:41 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:01:41 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:01:42 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:03:07 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:03:08 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:03:09 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:05:49 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:07:13 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:07:15 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:07:20 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:07:38 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:08:48 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:10:00 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:10:35 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:11:07 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:11:19 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:11:20 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:11:24 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:12:05 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:12:39 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:12:56 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:13:36 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:13:40 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:13:41 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:13:57 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:14:03 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:14:21 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:14:59 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:15:22 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:15:24 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:15:28 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:15:57 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:16:50 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:16:50 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:16:51 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:16:51 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:16:52 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:37:06 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:37:15 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:37:17 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:37:30 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:38:24 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:39:06 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:39:10 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:39:11 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:39:15 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:39:26 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:39:26 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:39:41 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:39:41 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:40:04 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:41:26 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:42:04 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:42:41 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:45:29 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:45:59 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:47:15 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:48:07 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:48:17 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:48:49 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:48:59 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:49:01 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:49:20 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:49:22 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:49:40 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:53:07 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:54:11 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:54:39 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:55:05 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:56:06 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:57:32 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:58:00 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:58:33 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:59:00 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 22:59:26 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 23:01:33 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 23:01:56 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 23:02:33 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 23:02:34 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 23:02:34 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 23:03:04 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 23:04:35 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 23:05:22 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 23:05:26 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 23:06:25 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 23:06:50 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 23:06:52 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 23:23:35 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 23:23:44 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 23:46:27 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 23:46:27 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[12-Feb-2024 23:46:29 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:05:19 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:05:24 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:05:31 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:05:49 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:08:41 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:08:41 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:08:43 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:09:32 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:09:33 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:09:58 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:10:13 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:10:37 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:10:45 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:10:52 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:11:53 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:12:00 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:12:01 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:12:19 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:12:31 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:12:34 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:12:39 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:14:08 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:14:12 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:31:34 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:33:02 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:33:05 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:33:25 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:33:26 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:34:20 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DNS_CAA" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\functions.php:560
+Stack trace:
+#0 C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\class-letsencrypt-handler.php(203): rsssl_caa_record_prevents_le()
+#1 C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\class-le-restapi.php(240): rsssl_letsencrypt_handler->check_domain()
+#2 C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\class-le-restapi.php(204): rsssl_le_restapi->get_installation_progress(Array, 'check_domain', Array)
+#3 C:\Users\mario\Local Sites\test\app\public\wp-includes\class-wp-hook.php(324): rsssl_le_restapi->handle_lets_encrypt_request(Array, 'check_domain', Array)
+#4 C:\Users\mario\Local Sites\test\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#5 C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\really-simple-ssl\settings\settings.php(499): apply_filters('rsssl_run_test', Array, 'check_domain', Array)
+#6 C:\Users\mario\Local Sites\test\app\public\wp-includes\rest-api\class-wp-rest-server.php(1193): rsssl_run_test(Object(WP_REST_Request))
+#7 C:\Users\mario\Local Sites\test\app\public\wp-includes\rest-api\class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/reallysimpless...', Array, NULL)
+#8 C:\Users\mario\Local Sites\test\app\public\wp-includes\rest-api\class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#9 C:\Users\mario\Local Sites\test\app\public\wp-includes\rest-api.php(424): WP_REST_Server->serve_request('/reallysimpless...')
+#10 C:\Users\mario\Local Sites\test\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#11 C:\Users\mario\Local Sites\test\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#12 C:\Users\mario\Local Sites\test\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#13 C:\Users\mario\Local Sites\test\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#14 C:\Users\mario\Local Sites\test\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#15 C:\Users\mario\Local Sites\test\app\public\wp-includes\functions.php(1336): WP->main('')
+#16 C:\Users\mario\Local Sites\test\app\public\wp-blog-header.php(16): wp()
+#17 C:\Users\mario\Local Sites\test\app\public\index.php(17): require('C:\\Users\\mario\\...')
+#18 {main}
+  thrown in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\functions.php on line 560
+[13-Feb-2024 08:34:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DNS_CAA" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\functions.php:560
+Stack trace:
+#0 C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\class-letsencrypt-handler.php(203): rsssl_caa_record_prevents_le()
+#1 C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\class-le-restapi.php(240): rsssl_letsencrypt_handler->check_domain()
+#2 C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\class-le-restapi.php(204): rsssl_le_restapi->get_installation_progress(Array, 'check_domain', Array)
+#3 C:\Users\mario\Local Sites\test\app\public\wp-includes\class-wp-hook.php(324): rsssl_le_restapi->handle_lets_encrypt_request(Array, 'check_domain', Array)
+#4 C:\Users\mario\Local Sites\test\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#5 C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\really-simple-ssl\settings\settings.php(499): apply_filters('rsssl_run_test', Array, 'check_domain', Array)
+#6 C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\really-simple-ssl\settings\settings.php(257): rsssl_run_test(Object(WP_REST_Request), Array)
+#7 C:\Users\mario\Local Sites\test\app\public\wp-includes\class-wp-hook.php(324): rsssl_rest_api_fallback('')
+#8 C:\Users\mario\Local Sites\test\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#9 C:\Users\mario\Local Sites\test\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#10 C:\Users\mario\Local Sites\test\app\public\wp-admin\admin-ajax.php(188): do_action('wp_ajax_rsssl_r...')
+#11 {main}
+  thrown in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\functions.php on line 560
+[13-Feb-2024 08:34:52 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[13-Feb-2024 08:35:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DNS_CAA" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\functions.php:560
+Stack trace:
+#0 C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\class-letsencrypt-handler.php(203): rsssl_caa_record_prevents_le()
+#1 C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\class-le-restapi.php(240): rsssl_letsencrypt_handler->check_domain()
+#2 C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\class-le-restapi.php(204): rsssl_le_restapi->get_installation_progress(Array, 'check_domain', Array)
+#3 C:\Users\mario\Local Sites\test\app\public\wp-includes\class-wp-hook.php(324): rsssl_le_restapi->handle_lets_encrypt_request(Array, 'check_domain', Array)
+#4 C:\Users\mario\Local Sites\test\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#5 C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\really-simple-ssl\settings\settings.php(499): apply_filters('rsssl_run_test', Array, 'check_domain', Array)
+#6 C:\Users\mario\Local Sites\test\app\public\wp-includes\rest-api\class-wp-rest-server.php(1193): rsssl_run_test(Object(WP_REST_Request))
+#7 C:\Users\mario\Local Sites\test\app\public\wp-includes\rest-api\class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/reallysimpless...', Array, NULL)
+#8 C:\Users\mario\Local Sites\test\app\public\wp-includes\rest-api\class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#9 C:\Users\mario\Local Sites\test\app\public\wp-includes\rest-api.php(424): WP_REST_Server->serve_request('/reallysimpless...')
+#10 C:\Users\mario\Local Sites\test\app\public\wp-includes\class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#11 C:\Users\mario\Local Sites\test\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#12 C:\Users\mario\Local Sites\test\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#13 C:\Users\mario\Local Sites\test\app\public\wp-includes\class-wp.php(418): do_action_ref_array('parse_request', Array)
+#14 C:\Users\mario\Local Sites\test\app\public\wp-includes\class-wp.php(813): WP->parse_request('')
+#15 C:\Users\mario\Local Sites\test\app\public\wp-includes\functions.php(1336): WP->main('')
+#16 C:\Users\mario\Local Sites\test\app\public\wp-blog-header.php(16): wp()
+#17 C:\Users\mario\Local Sites\test\app\public\index.php(17): require('C:\\Users\\mario\\...')
+#18 {main}
+  thrown in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\functions.php on line 560
+[13-Feb-2024 08:35:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DNS_CAA" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\functions.php:560
+Stack trace:
+#0 C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\class-letsencrypt-handler.php(203): rsssl_caa_record_prevents_le()
+#1 C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\class-le-restapi.php(240): rsssl_letsencrypt_handler->check_domain()
+#2 C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\class-le-restapi.php(204): rsssl_le_restapi->get_installation_progress(Array, 'check_domain', Array)
+#3 C:\Users\mario\Local Sites\test\app\public\wp-includes\class-wp-hook.php(324): rsssl_le_restapi->handle_lets_encrypt_request(Array, 'check_domain', Array)
+#4 C:\Users\mario\Local Sites\test\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#5 C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\really-simple-ssl\settings\settings.php(499): apply_filters('rsssl_run_test', Array, 'check_domain', Array)
+#6 C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\really-simple-ssl\settings\settings.php(257): rsssl_run_test(Object(WP_REST_Request), Array)
+#7 C:\Users\mario\Local Sites\test\app\public\wp-includes\class-wp-hook.php(324): rsssl_rest_api_fallback('')
+#8 C:\Users\mario\Local Sites\test\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#9 C:\Users\mario\Local Sites\test\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#10 C:\Users\mario\Local Sites\test\app\public\wp-admin\admin-ajax.php(188): do_action('wp_ajax_rsssl_r...')
+#11 {main}
+  thrown in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\functions.php on line 560
+[13-Feb-2024 08:40:42 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:40:54 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:45:18 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:45:45 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:46:06 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:46:16 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:46:58 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:48:25 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:48:53 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:51:02 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:54:32 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:54:34 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:54:42 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:56:51 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:57:24 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:57:32 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 08:58:43 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 09:00:40 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 09:02:04 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 09:02:16 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 09:02:33 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 09:02:38 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 09:02:42 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 09:03:03 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 09:03:27 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 09:04:20 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 09:04:39 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 09:05:06 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 09:05:10 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 09:13:35 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 09:13:50 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 09:14:45 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 09:15:51 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 09:38:03 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 09:38:03 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 09:38:10 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 09:38:59 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 09:55:09 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 09:55:13 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 09:55:16 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 10:03:40 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 10:03:46 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 10:06:40 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 10:12:40 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 10:15:58 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 10:15:58 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 10:15:59 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 10:16:34 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 10:16:35 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 10:18:07 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 10:18:29 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 10:18:41 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 10:30:54 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 10:31:04 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 10:31:12 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 10:31:25 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 10:31:32 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 10:31:40 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 10:31:47 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
+[13-Feb-2024 10:51:23 UTC] PHP Warning:  Undefined array key "options" in C:\Users\mario\Local Sites\test\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\widgets\site-logo.php on line 192
